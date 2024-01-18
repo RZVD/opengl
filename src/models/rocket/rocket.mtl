@@ -1,0 +1,14 @@
+# Blender 4.0.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Toy_Ship
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Toy_Rocket_4K/Toy_Rocket_Toy_Ship_BaseColor.png
+map_Ns home/razvan/repos/opengl-proj/src/models/rocket/Volumes/Main 4TB/Business/Digital Products/Assets/Toy Rocket/Exports/Toy Rocket 4K/Toy Rocket_Toy Ship_Roughness.png
+map_refl home/razvan/repos/opengl-proj/src/models/rocket/Volumes/Main 4TB/Business/Digital Products/Assets/Toy Rocket/Exports/Toy Rocket 4K/Toy Rocket_Toy Ship_Metallic.png
+map_Bump home/razvan/repos/opengl-proj/src/models/rocket/Volumes/Main 4TB/Business/Digital Products/Assets/Toy Rocket/Exports/Toy Rocket 4K/Toy Rocket_Toy Ship_Normal.png

@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/razvan/repos/opengl-proj/src/build",
+  "command": "/usr/bin/c++  -I/home/razvan/repos/opengl-proj/glm/.. -g -o CMakeFiles/scene.dir/Camera.cpp.o -c /home/razvan/repos/opengl-proj/src/Camera.cpp",
+  "file": "/home/razvan/repos/opengl-proj/src/Camera.cpp",
+  "output": "CMakeFiles/scene.dir/Camera.cpp.o"
+},
+{
+  "directory": "/home/razvan/repos/opengl-proj/src/build",
+  "command": "/usr/bin/c++  -I/home/razvan/repos/opengl-proj/glm/.. -g -o CMakeFiles/scene.dir/Mesh.cpp.o -c /home/razvan/repos/opengl-proj/src/Mesh.cpp",
+  "file": "/home/razvan/repos/opengl-proj/src/Mesh.cpp",
+  "output": "CMakeFiles/scene.dir/Mesh.cpp.o"
+},
+{
+  "directory": "/home/razvan/repos/opengl-proj/src/build",
+  "command": "/usr/bin/c++  -I/home/razvan/repos/opengl-proj/glm/.. -g -o CMakeFiles/scene.dir/Model3D.cpp.o -c /home/razvan/repos/opengl-proj/src/Model3D.cpp",
+  "file": "/home/razvan/repos/opengl-proj/src/Model3D.cpp",
+  "output": "CMakeFiles/scene.dir/Model3D.cpp.o"
+},
+{
+  "directory": "/home/razvan/repos/opengl-proj/src/build",
+  "command": "/usr/bin/c++  -I/home/razvan/repos/opengl-proj/glm/.. -g -o CMakeFiles/scene.dir/Shader.cpp.o -c /home/razvan/repos/opengl-proj/src/Shader.cpp",
+  "file": "/home/razvan/repos/opengl-proj/src/Shader.cpp",
+  "output": "CMakeFiles/scene.dir/Shader.cpp.o"
+},
+{
+  "directory": "/home/razvan/repos/opengl-proj/src/build",
+  "command": "/usr/bin/c++  -I/home/razvan/repos/opengl-proj/glm/.. -g -o CMakeFiles/scene.dir/SkyBox.cpp.o -c /home/razvan/repos/opengl-proj/src/SkyBox.cpp",
+  "file": "/home/razvan/repos/opengl-proj/src/SkyBox.cpp",
+  "output": "CMakeFiles/scene.dir/SkyBox.cpp.o"
+},
+{
+  "directory": "/home/razvan/repos/opengl-proj/src/build",
+  "command": "/usr/bin/c++  -I/home/razvan/repos/opengl-proj/glm/.. -g -o CMakeFiles/scene.dir/Window.cpp.o -c /home/razvan/repos/opengl-proj/src/Window.cpp",
+  "file": "/home/razvan/repos/opengl-proj/src/Window.cpp",
+  "output": "CMakeFiles/scene.dir/Window.cpp.o"
+},
+{
+  "directory": "/home/razvan/repos/opengl-proj/src/build",
+  "command": "/usr/bin/c++  -I/home/razvan/repos/opengl-proj/glm/.. -g -o CMakeFiles/scene.dir/main.cpp.o -c /home/razvan/repos/opengl-proj/src/main.cpp",
+  "file": "/home/razvan/repos/opengl-proj/src/main.cpp",
+  "output": "CMakeFiles/scene.dir/main.cpp.o"
+},
+{
+  "directory": "/home/razvan/repos/opengl-proj/src/build",
+  "command": "/usr/bin/c++  -I/home/razvan/repos/opengl-proj/glm/.. -g -o CMakeFiles/scene.dir/stb_image.cpp.o -c /home/razvan/repos/opengl-proj/src/stb_image.cpp",
+  "file": "/home/razvan/repos/opengl-proj/src/stb_image.cpp",
+  "output": "CMakeFiles/scene.dir/stb_image.cpp.o"
+},
+{
+  "directory": "/home/razvan/repos/opengl-proj/src/build",
+  "command": "/usr/bin/c++  -I/home/razvan/repos/opengl-proj/glm/.. -g -o CMakeFiles/scene.dir/tiny_obj_loader.cpp.o -c /home/razvan/repos/opengl-proj/src/tiny_obj_loader.cpp",
+  "file": "/home/razvan/repos/opengl-proj/src/tiny_obj_loader.cpp",
+  "output": "CMakeFiles/scene.dir/tiny_obj_loader.cpp.o"
+}
+]

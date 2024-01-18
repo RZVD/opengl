@@ -1,0 +1,5 @@
+/home/razvan/repos/opengl-proj/src/CMakeFiles/scene.dir
+/home/razvan/repos/opengl-proj/src/CMakeFiles/edit_cache.dir
+/home/razvan/repos/opengl-proj/src/CMakeFiles/rebuild_cache.dir
+/home/razvan/repos/opengl-proj/src/build/glm/CMakeFiles/edit_cache.dir
+/home/razvan/repos/opengl-proj/src/build/glm/CMakeFiles/rebuild_cache.dir
